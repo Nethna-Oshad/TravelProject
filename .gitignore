@@ -1,0 +1,9 @@
+# --- IDE Settings (Global) ---
+.idea/
+.vscode/
+*.iws
+*.ipr
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
