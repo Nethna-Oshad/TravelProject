@@ -18,7 +18,7 @@ const Dashboard = ({ user }) => {
       
       <div className="my-8 border-t border-gray-300"></div>
       
-      <h3 className="text-xl font-bold text-gray-800 mb-4">Current Packages</h3>
+      <h3 className="text-xl font-bold text-gray-800 mb-4">Current  Packages</h3>
       <TourList />
     </div>
   );
